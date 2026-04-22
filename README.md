@@ -2,10 +2,6 @@
 
 GlowChat is a premium, real-time messaging application built with Node.js, Express, and Socket.io. It features a stunning **Dark Glassmorphism** design with smooth animations and instant message delivery.
 
-## 🔗 Live Demo
-
-Check out the live application here: **[glowcha.netlify.app](https://glowcha.netlify.app/)**
-
 ## 🚀 Features
 
 - **Real-time Messaging**: Instant communication powered by WebSockets (Socket.io).
